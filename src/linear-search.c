@@ -4,7 +4,7 @@
  Author      : Said TALEB ALI
  Version     : 1.0
  Copyright   : MIT
- Description : Search for a number in an array using linear search
+ Description : Search for a number in an array using linear search.
  ============================================================================
  */
 
