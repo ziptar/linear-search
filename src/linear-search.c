@@ -40,7 +40,7 @@ int main(void) {
 
 	if (!found)
 	{
-	        printf("The number %d is not a member of the list. \n", item);
+	        printf("The number %d is not found the list. \n", item);
 	}
 	else
 	{
