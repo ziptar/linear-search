@@ -2,7 +2,7 @@
  ============================================================================
  Name        : linear-search.c
  Author      : Said TALEB ALI
- Version     :
+ Version     : 1.0
  Copyright   : MIT
  Description : Search for a number in an array using linear search
  ============================================================================
